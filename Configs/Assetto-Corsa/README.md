@@ -3,6 +3,16 @@
 | **[AssettoLab](https://assettolab.ru/)** | CSP, Pure, apps, graphics |
 | **[Mods Palace](https://modspalace.carcitysharing.workers.dev/assetto-corsa/mods)** | apps, graphics (много платных плагинов) |
 
+## 🎛 Content Manager
+
+Пресеты настроек — ссылка открывает импорт в Content Manager.
+
+| | |
+|---|---|
+| CSP | [Пресет](https://acstuff.club/s/oF8) |
+| Video | [Пресет](https://acstuff.club/s/AmUQ) |
+| Controls | [Пресет](https://acstuff.ru/s/LD6a) |
+
 ## 🖼 Графика — CDImagine
 
 <img src="Graphics/demo-1.png" width="100%">
