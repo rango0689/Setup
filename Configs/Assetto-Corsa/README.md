@@ -3,6 +3,17 @@
 | **[AssettoLab](https://assettolab.ru/)** | CSP, Pure, apps, graphics |
 | **[Mods Palace](https://modspalace.carcitysharing.workers.dev/assetto-corsa/mods)** | apps, graphics (много платных плагинов) |
 
+## ⬇️ Файлы игры
+
+Готовая сборка: игра со всем, что есть в этом разделе, уже установлено.
+
+| Файл | Что |
+|---|---|
+| **[assettocorsa.rar](https://drive.google.com/file/d/1zzGiA3Fgo_nZzvjATX9dlofaiHNYun5T/view)** | игра, всё из этого раздела уже стоит |
+| **[Dlss5.zip](https://drive.google.com/file/d/1JtIEnQRfRnY3BpO_90nYHviH1wp1cJbC/view)** | DLSS 5 отдельно |
+| **[trafficpack](https://drive.google.com/drive/folders/1ITNNjFhwankgjqVj42HB9n2sRqpmq43j)** | трафик-карпак, 34 машины |
+| **[carpack](https://drive.google.com/drive/folders/1BYY0SzBPHHSakRS-1qTA1Hjo_oRlCW7G)** | карпак, 13 машин |
+
 ## ⚙️ Content Manager
 
 Пресеты настроек — ссылка открывает импорт в Content Manager.
